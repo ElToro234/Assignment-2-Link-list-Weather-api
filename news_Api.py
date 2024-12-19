@@ -13,7 +13,7 @@ class newsApiHandler:
         else:
             raise ValueError(f"Error fetching data: {response.status_code}")
 
-# api_key = '0a9a4bb3d1334f9c85ba2b343f48dd74'
+# api_key = 'API_KEY'
 # news_api = newsApiHandler(api_key)
 #
 # # Get the top headlines
